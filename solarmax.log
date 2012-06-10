@@ -71410,3 +71410,45 @@ Energy total..........[kWh].: 5436
 Temperature Heat Sink..[°C].: 38
 Operational State...........: 20008
 ============================================================
+Time........................: Sun Jun 10 19:48:04 2012
+COMMUNICATION...............: ONLINE
+AC Power now.........[Watt].: 524
+Load now................[%].: 4
+AC Voltage now.......[Volt].: 232.8
+AC Current now.......[Amps].: 0.95
+DC Voltage now.......[Volt].: 595.5
+DC Current now.......[Amps].: 0.44
+AC Frequency now.......[Hz].: 50
+Operating Hours.........[h].: 2175
+Startups....................: 302
+Energy today...........[Wh].: 48100
+Energy yesterday.......[Wh].: 40900
+Energy this Month.....[kWh].: 378
+Energy last Month.....[kWh].: 1577
+Energy this Year......[kWh].: 4725
+Energy last Year......[kWh].: 711
+Energy total..........[kWh].: 5436
+Temperature Heat Sink..[°C].: 38
+Operational State...........: 20008
+============================================================
+Time........................: Sun Jun 10 19:58:04 2012
+COMMUNICATION...............: ONLINE
+AC Power now.........[Watt].: 351
+Load now................[%].: 2
+AC Voltage now.......[Volt].: 233.2
+AC Current now.......[Amps].: 0.84
+DC Voltage now.......[Volt].: 579.7
+DC Current now.......[Amps].: 0.3
+AC Frequency now.......[Hz].: 50
+Operating Hours.........[h].: 2175
+Startups....................: 302
+Energy today...........[Wh].: 48200
+Energy yesterday.......[Wh].: 40900
+Energy this Month.....[kWh].: 378
+Energy last Month.....[kWh].: 1577
+Energy this Year......[kWh].: 4725
+Energy last Year......[kWh].: 711
+Energy total..........[kWh].: 5436
+Temperature Heat Sink..[°C].: 37
+Operational State...........: 20008
+============================================================
