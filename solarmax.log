@@ -82726,3 +82726,24 @@ Energy total..........[kWh].: 5916
 Temperature Heat Sink..[°C].: 34
 Operational State...........: 20008
 ============================================================
+Time........................: Wed Jun 20 07:38:15 2012
+COMMUNICATION...............: ONLINE
+AC Power now.........[Watt].: 1992
+Load now................[%].: 15
+AC Voltage now.......[Volt].: 232.1
+AC Current now.......[Amps].: 2.77
+DC Voltage now.......[Volt].: 593.8
+DC Current now.......[Amps].: 1.71
+AC Frequency now.......[Hz].: 49.96
+Operating Hours.........[h].: 2317
+Startups....................: 313
+Energy today...........[Wh].: 2700
+Energy yesterday.......[Wh].: 58500
+Energy this Month.....[kWh].: 859
+Energy last Month.....[kWh].: 1577
+Energy this Year......[kWh].: 5206
+Energy last Year......[kWh].: 711
+Energy total..........[kWh].: 5917
+Temperature Heat Sink..[°C].: 37
+Operational State...........: 20008
+============================================================
