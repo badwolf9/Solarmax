@@ -1636,3 +1636,4 @@ INSERT IGNORE INTO log1 (created,kdy,kmt,kyr,kt0,tnf,tkk,pac,prl,il1,idc,ul1,udc
 INSERT IGNORE INTO log1 (created,kdy,kmt,kyr,kt0,tnf,tkk,pac,prl,il1,idc,ul1,udc,sys) VALUES ('2012-06-22 08:58:16',37,947,5294,6006,4998,37,2440,18,335,204,2328,6084,20008);
 INSERT IGNORE INTO log1 (created,kdy,kmt,kyr,kt0,tnf,tkk,pac,prl,il1,idc,ul1,udc,sys) VALUES ('2012-06-22 09:18:15',48,948,5295,6007,5000,40,3703,28,508,313,2332,6084,20008);
 INSERT IGNORE INTO log1 (created,kdy,kmt,kyr,kt0,tnf,tkk,pac,prl,il1,idc,ul1,udc,sys) VALUES ('2012-06-22 09:38:14',59,949,5296,6008,4998,41,3156,24,433,268,2332,6025,20008);
+INSERT IGNORE INTO log1 (created,kdy,kmt,kyr,kt0,tnf,tkk,pac,prl,il1,idc,ul1,udc,sys) VALUES ('2012-06-22 09:58:10',71,951,5298,6009,5000,43,3801,29,522,325,2332,6014,20008);
