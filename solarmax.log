@@ -30453,3 +30453,24 @@ Operational State...........:
 ============================================================
 No reading (OFFLINE etc) at this time
 Timeout
+Time........................: Tue Feb  5 09:18:10 2013
+COMMUNICATION...............: ONLINE
+AC Power now.........[Watt].: 106
+Load now................[%].: 0
+AC Voltage now.......[Volt].: 230.6
+AC Current now.......[Amps].: 0.77
+DC Voltage now.......[Volt].: 614.1
+DC Current now.......[Amps].: 0.08
+AC Frequency now.......[Hz].: 49.99
+Operating Hours.........[h].: 4475
+Startups....................: 571
+Energy today...........[Wh].: 0
+Energy yesterday.......[Wh].: 600
+Energy this Month.....[kWh].: 6
+Energy last Month.....[kWh].: 102
+Energy this Year......[kWh].: 108
+Energy last Year......[kWh].: 10610
+Energy total..........[kWh].: 11430
+Temperature Heat Sink..[°C].: 23
+Operational State...........: 20008
+============================================================
