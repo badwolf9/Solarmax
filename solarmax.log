@@ -38261,3 +38261,24 @@ Temperature Heat Sink..[°C].: 0
 Operational State...........: 
 ============================================================
 No reading (OFFLINE etc) at this time
+Time........................: Sat Mar  9 05:16:15 2013
+COMMUNICATION...............: ONLINE
+AC Power now.........[Watt].: 227
+Load now................[%].: 1
+AC Voltage now.......[Volt].: 232.9
+AC Current now.......[Amps].: 0.82
+DC Voltage now.......[Volt].: 586.5
+DC Current now.......[Amps].: 0.18
+AC Frequency now.......[Hz].: 50.02
+Operating Hours.........[h].: 4531
+Startups....................: 588
+Energy today...........[Wh].: 0
+Energy yesterday.......[Wh].: 27700
+Energy this Month.....[kWh].: 56
+Energy last Month.....[kWh].: 11
+Energy this Year......[kWh].: 170
+Energy last Year......[kWh].: 10610
+Energy total..........[kWh].: 11492
+Temperature Heat Sink..[°C].: 25
+Operational State...........: 20008
+============================================================
