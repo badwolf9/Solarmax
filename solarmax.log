@@ -52720,3 +52720,24 @@ Energy total..........[kWh].: 11839
 Temperature Heat Sink..[°C].: 34
 Operational State...........: 20008
 ============================================================
+Time........................: Sat Mar 23 08:16:15 2013
+COMMUNICATION...............: ONLINE
+AC Power now.........[Watt].: 3144
+Load now................[%].: 24
+AC Voltage now.......[Volt].: 233.2
+AC Current now.......[Amps].: 4.33
+DC Voltage now.......[Volt].: 656.7
+DC Current now.......[Amps].: 2.44
+AC Frequency now.......[Hz].: 49.98
+Operating Hours.........[h].: 4691
+Startups....................: 608
+Energy today...........[Wh].: 5600
+Energy yesterday.......[Wh].: 53800
+Energy this Month.....[kWh].: 404
+Energy last Month.....[kWh].: 11
+Energy this Year......[kWh].: 518
+Energy last Year......[kWh].: 10610
+Energy total..........[kWh].: 11840
+Temperature Heat Sink..[°C].: 35
+Operational State...........: 20008
+============================================================
